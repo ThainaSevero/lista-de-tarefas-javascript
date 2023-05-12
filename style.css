@@ -68,7 +68,10 @@ li {
 
 .deleta {
     display: none;
-    
+    background-color: #2b423e;
+    font-size: 12px;
+    border-radius: 20px;
+    border-color: #2b423e;
 }
 
 li:hover .deleta { 

@@ -2,8 +2,6 @@ body {
     background-image: linear-gradient(to right, #f7ede2, #fcdbca);
 }
 
-/* paleta de cores (base): f6bd60, f7ede2, f5cac3, 84a59d, f28482 */
-
 /* título 'to-do list'  */
 .titulo {
     background-color: #84a59d;
